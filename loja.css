@@ -1,0 +1,35 @@
+.fita{
+    height: 100px;
+    width: 2000px;
+    background-color: black;
+}
+.navegação{
+height: 150px;
+width: 2000px;
+border: solid rgb(0, 0, 0);
+margin:0 auto;
+display: flex;
+
+}
+.menufake{
+    width: 400px;
+    height: 150px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border: solid black;
+}
+.logo{
+    width: 300px;
+    height: 150px;
+    border: solid black;
+    margin-right: auto;
+    place-content: center;
+}
+.barra{
+    width: 300px;
+    height: 150px;
+    border: solid black;
+    margin-right: auto;
+    place-content: left;
+    margin-bottom: auto;
+}
